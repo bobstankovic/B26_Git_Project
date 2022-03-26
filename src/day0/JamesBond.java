@@ -1,5 +1,7 @@
-package day0
+package day0;
 
-puvlic class JamesBond{
-  System.out.println("James Bond");
+public class JamesBond{
+  public static void main(String[] args) {
+    System.out.println("James Bond");
   }
+}
